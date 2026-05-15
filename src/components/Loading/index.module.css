@@ -1,0 +1,15 @@
+.loading {
+  overflow: visible;
+}
+
+@keyframes loading-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinnerArc {
+  transform-origin: center;
+  stroke-dasharray: 26 74;
+  animation: loading-spin 0.9s linear infinite;
+}

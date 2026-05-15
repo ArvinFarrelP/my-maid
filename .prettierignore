@@ -1,0 +1,6 @@
+pnpm-lock.yaml
+.docusaurus
+.vscode
+.husky
+node_modules
+dist

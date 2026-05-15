@@ -1,0 +1,76 @@
+# 工具
+
+- [scrcpy](https://github.com/Genymobile/scrcpy)：全平台安卓投屏工具
+- [flameshot](https://github.com/flameshot-org/flameshot)：支持 Hyprland 的截图工具
+- [potatovn.net](https://potatovn.net/)：Visual Novel 管理工具，支持云存档，同步 Bangumi
+- [orama](https://orama.com/)：类似 Algolia，感觉更新
+- github1s.com: 在 github 后加 `1s` 可打开网页版 VS Code 查看代码
+- [picui.cn](https://picui.cn/) 图床
+
+## Windows
+
+- [ScreenToGif](https://www.screentogif.com/)：gif 录制工具
+- [listary](https://www.listarypro.com/)：App launcher + 文件搜索
+- [Refus](https://rufus.ie/zh/) 启动盘制作工具
+- [keyviz](https://github.com/mulaRahul/keyviz) 屏幕实时显示键盘
+- [jpegview](https://github.com/sylikc/jpegview) 图片查看器
+- [Lively Wallpaper](https://github.com/rocksdanister/lively) 壁纸引擎。别下最新版，GPU 占用过高，下载2.0.6.5
+- [Scoop](https://github.com/ScoopInstaller/Scoop) 包管理工具
+- [DroidCam](https://droidcam.app) 虚拟相机，让电脑可以使用手机的相机。
+
+## Mac
+
+- [Navicat 16 中文](https://www.imacso.com/navicat-premium.html)
+- `AmazonQ`: 命令行提示，`brew install --cask amazon-q`
+- [scrollreverser](https://pilotmoon.com/scrollreverser)：同步鼠标与数位板滚动的方向
+- [keycastr](https://github.com/keycastr/keycastr)：实时显示键盘
+- [https://www.better365.com](https://www.better365.com)
+- [https://iina.io](https://iina.io)：视频播放器，比系统自带的好用，可以加载字幕
+- [keka](https://www.keka.io/en/)：解压工具
+
+## Linux
+
+- 文件管理器：[yazi](https://github.com/sxyazi/yazi)，比 joshuto 更快，而且直接支持图片与 pdf 预览
+- 适用于 Wayland 的 screenkey：[showmethekey](https://github.com/AlynxZhou/showmethekey)
+- [tokei](https://github.com/XAMPPRocky/tokei)：代码统计
+- [nvtop](https://github.com/Syllo/nvtop)：GPU 监控
+- htop
+- [tldr](https://github.com/tldr-pages/tldr)：查看命令的使用示例
+- [github.com/Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)：兼容性很强的命令行 clipboard 工具
+
+## Android
+
+- [aves](https://github.com/deckerst/aves)：相册软件，功能比系统自带的强
+- Moon+ Reader：电子书阅读软件，支持多种电子书格式与 webdav 同步。抗揍云 [https://yixiaojiu.lanzouw.com/ikMir2mgoudi](https://yixiaojiu.lanzouw.com/ikMir2mgoudi)。
+
+## 命令替代品
+
+[Arch Wiki](https://wiki.archlinuxcn.org/wiki/%E6%A0%B8%E5%BF%83%E5%B7%A5%E5%85%B7)
+
+- ls -> [lsd](https://github.com/lsd-rs/lsd)
+- cat -> [bat](https://github.com/sharkdp/bat)
+- cd -> [zoxide](https://github.com/ajeetdsouza/zoxide)
+- cp -> [rsync](https://wiki.archlinuxcn.org/wiki/Rsync#As_cp/mv_alternative)
+- ping -> [gping](https://github.com/orf/gping)
+- find -> [fd](https://github.com/sharkdp/fd)
+
+## 前端
+
+- [volta](https://github.com/volta-cli/volta)：Node.js 包管理
+- [fnm](https://github.com/Schniz/fnm)：node 包管理
+- [biome](https://github.com/biomejs/biome)：format 与 lint 工具
+- [oxc](https://github.com/oxc-project/oxc)：一整套 JS 处理的工具，
+- [fontmin](https://github.com/ecomfe/fontmin)：压缩字体
+
+## AI
+
+- [gitdiagram](https://gitdiagram.com/)：输入一个 github 仓库，输出一个架构图
+- [browser-use](https://browser-use.com/)：浏览器自动化操作工具
+
+## 杂货
+
+### 串流工具
+
+moonlight + sunshine + EVD
+
+[Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display) 创建虚拟显示器

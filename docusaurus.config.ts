@@ -93,7 +93,7 @@ const config: Config = {
   },
 
   customFields: {
-    nickname: 'Arvin',
+    nickname: 'Arvin-chan',
     uid: 'arvinlabs',
     biography: 'Bwockchain Enginyeew (^~owo~^)',
     externalLinks: [

@@ -83,7 +83,7 @@ function HomeContent() {
                 href={goLink}
               >
                 {/* <span>查看笔记</span> */}
-                <span>View Notes</span>
+                <span>Notes</span>
                 <ArrowRight className="w-4 h-4" />
               </Link>
               <Link
@@ -93,7 +93,7 @@ function HomeContent() {
                 className="px-4 py-2 text-sm flex justify-center items-center cursor-pointer  rounded-2xl text-blue-300 hover:text-blue-400 border-2 hover:border-blue-400 border-blue-300 transition-colors"
                 href="/docs/record/show-window/bangumi"
               >
-                View Showcase
+                Showcase
               </Link>
             </div>
           </div>
